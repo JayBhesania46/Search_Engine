@@ -1,0 +1,19 @@
+{
+	"name": "search-engine",
+	"version": "1.0.0",
+	"description": "Full text search engine for CS600 course",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Jay Bhesania 20011391",
+	"license": "MIT",
+	"dependencies": {
+		"html-to-text": "^9.0.2",
+		"immutable": "^4.3.0",
+		"stopword": "^2.0.5",
+		"text-cleaner": "^1.2.1"
+	}
+}
