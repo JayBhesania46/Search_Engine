@@ -5,8 +5,7 @@
 
 ## INTRODUCTION
 
-The goal of this project was to create a search engine for a small website,following the guidelines described in section 23.6 (Subsection; Search Engine). The search engine is supposed to take a directory of files, parse the contents,and index all the words except stop words. The program should then rank the words based on their frequency in each file. Users can then search for specific terms 
-and receive a ranking of relevant web pages.
+The goal of this project was to create a search engine for a small website,following the guidelines described in section 23.6 (Subsection; Search Engine). The search engine is supposed to take a directory of files, parse the contents,and index all the words except stop words. The program should then rank the words based on their frequency in each file. Users can then search for specific terms and receive a ranking of relevant web pages.
 
 ## Search Engine
 
