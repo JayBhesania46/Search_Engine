@@ -1,7 +1,4 @@
 ### Search Engine
-## CS 600 Advanced Algorithm Design and Implementation
-## Final Project
-## Jay Bhesania 20011391
 
 ## INTRODUCTION
 
